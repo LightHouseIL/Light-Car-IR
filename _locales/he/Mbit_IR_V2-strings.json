@@ -1,0 +1,6 @@
+{
+  "makerbit.connectIrReceiver|block": "חבר מקלט IR לפין %pin",
+  "makerbit.onIrButton|block": "כאשר כפתור | %button | %action",
+  "IrButtonAction.Pressed|block": "נלחץ",
+  "IrButtonAction.Released|block": "שוחרר"
+} 

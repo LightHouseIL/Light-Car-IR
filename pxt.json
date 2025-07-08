@@ -1,0 +1,23 @@
+{
+    "name": "תוסף לשלט IR",
+    "version": "1.0.1",
+    "description": "Extension for Tint:bit IR V2",
+    "dependencies": {
+        "core": "*"
+    },
+    "files": [
+        "README.md",
+        "infrared-receiver.ts",
+        "_locales/zh-cn/Mbit_IR_V2-strings.json",
+        "_locales/zh-tw/Mbit_IR_V2-strings.json",
+        "_locales/he/Mbit_IR_V2-strings.json"
+    ],
+    "testFiles": [
+        "test.ts"
+    ],
+    "public": true,
+    "supportedTargets": [
+        "microbit"
+    ],
+    "preferredEditor": "tsprj"
+}
